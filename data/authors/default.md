@@ -1,16 +1,17 @@
 ---
-name: Tails Azimuth
+name: Bruno Paulino
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Software Crafsman
+company: Tech Lead at N26
+email: hi@bpaulino.com
+twitter: https://twitter.com/bpaulino0
+linkedin: https://www.linkedin.com/in/brunojppb/
+github: https://github.com/brunojppb
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+I am originally from Brazil and currently based in Vienna, Austria.
+I am a passionate Software Engineer who loves crafting solutions that can help ease our lives and make it more fun.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+I am mainly interested in Web development and programming languages these days. I have been writing web applications using Scala, Elixir, JavaScript and TypeScript.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+This is a spin-off of my [main website](https://bpaulino.com) where I throw together interesting stuff I learn during my day.

@@ -9,7 +9,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/brunojppb/til',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/twitter-card.jpg',
   email: 'hi@bpaulino.com',
   github: 'https://github.com/brunojppb',
   twitter: 'https://twitter.com/bpaulino0',

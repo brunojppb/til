@@ -6,14 +6,14 @@ draft: false
 summary: 'How does ref work during pattern matching?'
 ---
 
-I'm currently building a native app at work with the Rust programming language
-(using [tauri](https://tauri.app/) as my base framework) and I came across this
-match pattern where I did not want to consume the value bound to my variable. In
-Rust terms, I wanted to only get a reference to the inner value of a pattern.
+I'm currently building a native app at work with the Rust programming language (using
+[tauri](https://tauri.app/) as my base framework) and I came across this match pattern where I did
+not want to consume the value bound to my variable. In Rust terms, I wanted to only get a reference
+to the inner value of a pattern.
 
-This is where the [ref](https://doc.rust-lang.org/std/keyword.ref.html) keyword
-is handy. It allow us to extract the inner value of a pattern by borrowing
-instead of moving. Let's take a look at an example:
+This is where the [ref](https://doc.rust-lang.org/std/keyword.ref.html) keyword is handy. It allow
+us to extract the inner value of a pattern by borrowing instead of moving. Let's take a look at an
+example:
 
 ```rust:main.rs
 fn main() {
@@ -38,8 +38,8 @@ fn main() {
 }
 ```
 
-The compiler does a great job at warning you about that move, but it's an error,
-so it does not let you move forward. To fix that, you can use `ref`:
+The compiler does a great job at warning you about that move, but it's an error, so it does not let
+you move forward. To fix that, you can use `ref`:
 
 ```rust:main.rs
 fn main() {
@@ -60,8 +60,8 @@ fn main() {
 ## Binding behind a Mutex guard
 
 One specific case I had was to borrow from a value that was protected by a
-[Mutex](https://doc.rust-lang.org/std/sync/struct.Mutex.html) and shared across
-threads. The ref keyboard allowed me to borrow this shared value in a safe way.
+[Mutex](https://doc.rust-lang.org/std/sync/struct.Mutex.html) and shared across threads. The ref
+keyboard allowed me to borrow this shared value in a safe way.
 
 ```rust:main.rs
 use std::sync::Mutex;

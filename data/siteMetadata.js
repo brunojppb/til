@@ -8,7 +8,7 @@ const siteMetadata = {
   siteUrl: 'https://til.bpaulino.com',
   siteRepo: 'https://github.com/brunojppb/til',
   siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
+  image: '/static/images/pic.jpg',
   socialBanner: '/static/images/twitter-card.jpg',
   email: 'hi@bpaulino.com',
   github: 'https://github.com/brunojppb',

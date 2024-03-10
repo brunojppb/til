@@ -5,46 +5,46 @@ dependencies:
     specifier: 4.5.2
     version: 4.5.2
   '@mailchimp/mailchimp_marketing':
-    specifier: ^3.0.58
+    specifier: 3.0.58
     version: 3.0.58
   '@next/bundle-analyzer':
-    specifier: ^12.1.4
+    specifier: 12.1.4
     version: 12.1.4
   '@tailwindcss/forms':
-    specifier: ^0.4.0
+    specifier: 0.4.0
     version: 0.4.0(tailwindcss@3.3.1)
   '@tailwindcss/typography':
-    specifier: ^0.5.0
+    specifier: 0.5.0
     version: 0.5.0(tailwindcss@3.3.1)
   autoprefixer:
-    specifier: ^10.4.0
+    specifier: 10.4.0
     version: 10.4.0(postcss@8.4.5)
   esbuild:
-    specifier: ^0.13.13
+    specifier: 0.13.13
     version: 0.13.13
   github-slugger:
-    specifier: ^1.3.0
+    specifier: 1.3.0
     version: 1.3.0
   gray-matter:
-    specifier: ^4.0.2
+    specifier: 4.0.2
     version: 4.0.2
   image-size:
     specifier: 1.0.0
     version: 1.0.0
   mdx-bundler:
-    specifier: ^8.0.0
+    specifier: 8.0.0
     version: 8.0.0(esbuild@0.13.13)
   next:
     specifier: 12.3.4
     version: 12.3.4(@babel/core@7.21.4)(react-dom@17.0.2)(react@17.0.2)
   next-themes:
-    specifier: ^0.0.14
+    specifier: 0.0.14
     version: 0.0.14(next@12.3.4)(react-dom@17.0.2)(react@17.0.2)
   postcss:
-    specifier: ^8.4.5
+    specifier: 8.4.5
     version: 8.4.5
   preact:
-    specifier: ^10.6.2
+    specifier: 10.6.2
     version: 10.6.2
   react:
     specifier: 17.0.2
@@ -56,93 +56,93 @@ dependencies:
     specifier: 1.3.0
     version: 1.3.0
   rehype-autolink-headings:
-    specifier: ^6.1.0
+    specifier: 6.1.0
     version: 6.1.0
   rehype-citation:
-    specifier: ^0.4.0
+    specifier: 0.4.0
     version: 0.4.0
   rehype-katex:
-    specifier: ^6.0.2
+    specifier: 6.0.2
     version: 6.0.2
   rehype-preset-minify:
     specifier: 6.0.0
     version: 6.0.0
   rehype-prism-plus:
-    specifier: ^1.1.3
+    specifier: 1.1.3
     version: 1.1.3
   rehype-slug:
-    specifier: ^5.0.0
+    specifier: 5.0.0
     version: 5.0.0
   remark-footnotes:
-    specifier: ^4.0.1
+    specifier: 4.0.1
     version: 4.0.1
   remark-gfm:
-    specifier: ^3.0.1
+    specifier: 3.0.1
     version: 3.0.1
   remark-math:
-    specifier: ^5.1.1
+    specifier: 5.1.1
     version: 5.1.1
   sharp:
-    specifier: ^0.28.3
+    specifier: 0.28.3
     version: 0.28.3
   tailwindcss:
     specifier: 3.3.1
     version: 3.3.1(postcss@8.4.5)
   unist-util-visit:
-    specifier: ^4.0.0
+    specifier: 4.0.0
     version: 4.0.0
 
 devDependencies:
   '@svgr/webpack':
-    specifier: ^6.1.2
+    specifier: 6.1.2
     version: 6.1.2
   cross-env:
-    specifier: ^7.0.3
+    specifier: 7.0.3
     version: 7.0.3
   dedent:
-    specifier: ^0.7.0
+    specifier: 0.7.0
     version: 0.7.0
   eslint:
-    specifier: ^7.29.0
+    specifier: 7.29.0
     version: 7.29.0
   eslint-config-next:
     specifier: 12.1.4
     version: 12.1.4(eslint@7.29.0)(next@12.3.4)(typescript@5.0.4)
   eslint-config-prettier:
-    specifier: ^8.3.0
+    specifier: 8.3.0
     version: 8.3.0(eslint@7.29.0)
   eslint-plugin-prettier:
-    specifier: ^3.3.1
+    specifier: 3.3.1
     version: 3.3.1(eslint-config-prettier@8.3.0)(eslint@7.29.0)(prettier@2.5.1)
   file-loader:
-    specifier: ^6.0.0
+    specifier: 6.0.0
     version: 6.0.0(webpack@5.79.0)
   globby:
     specifier: 11.0.3
     version: 11.0.3
   husky:
-    specifier: ^6.0.0
+    specifier: 6.0.0
     version: 6.0.0
   inquirer:
-    specifier: ^8.1.1
+    specifier: 8.1.1
     version: 8.1.1
   lint-staged:
-    specifier: ^11.0.0
+    specifier: 11.0.0
     version: 11.0.0
   next-remote-watch:
-    specifier: ^1.0.0
+    specifier: 1.0.0
     version: 1.0.0
   prettier:
-    specifier: ^2.5.1
+    specifier: 2.5.1
     version: 2.5.1
   prettier-plugin-tailwindcss:
-    specifier: ^0.1.4
+    specifier: 0.1.4
     version: 0.1.4(prettier@2.5.1)
   socket.io:
-    specifier: ^4.4.0
+    specifier: 4.4.0
     version: 4.4.0
   socket.io-client:
-    specifier: ^4.4.0
+    specifier: 4.4.0
     version: 4.4.0
 
 packages:
@@ -461,6 +461,7 @@ packages:
   /@babel/plugin-proposal-async-generator-functions@7.20.7(@babel/core@7.21.4):
     resolution: {integrity: sha512-xMbiLsn/8RK7Wq7VeVytytS2L6qE69bXPB10YCmMdDZbKF4okCqY74pI/jJQ/8U0b/F6NrT2+14b8/P9/3AMGA==}
     engines: {node: '>=6.9.0'}
+    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-async-generator-functions instead.
     peerDependencies:
       '@babel/core': ^7.0.0-0
     dependencies:
@@ -476,6 +477,7 @@ packages:
   /@babel/plugin-proposal-class-properties@7.18.6(@babel/core@7.21.4):
     resolution: {integrity: sha512-cumfXOF0+nzZrrN8Rf0t7M+tF6sZc7vhQwYQck9q1/5w2OExlD+b4v4RpMJFaV1Z7WcDRgO6FqvxqxGlwo+RHQ==}
     engines: {node: '>=6.9.0'}
+    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-class-properties instead.
     peerDependencies:
       '@babel/core': ^7.0.0-0
     dependencies:
@@ -489,6 +491,7 @@ packages:
   /@babel/plugin-proposal-class-static-block@7.21.0(@babel/core@7.21.4):
     resolution: {integrity: sha512-XP5G9MWNUskFuP30IfFSEFB0Z6HzLIUcjYM4bYOPHXl7eiJ9HFv8tWj6TXTN5QODiEhDZAeI4hLok2iHFFV4hw==}
     engines: {node: '>=6.9.0'}
+    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-class-static-block instead.
     peerDependencies:
       '@babel/core': ^7.12.0
     dependencies:
@@ -503,6 +506,7 @@ packages:
   /@babel/plugin-proposal-dynamic-import@7.18.6(@babel/core@7.21.4):
     resolution: {integrity: sha512-1auuwmK+Rz13SJj36R+jqFPMJWyKEDd7lLSdOj4oJK0UTgGueSAtkrCvz9ewmgyU/P941Rv2fQwZJN8s6QruXw==}
     engines: {node: '>=6.9.0'}
+    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-dynamic-import instead.
     peerDependencies:
       '@babel/core': ^7.0.0-0
     dependencies:
@@ -514,6 +518,7 @@ packages:
   /@babel/plugin-proposal-export-namespace-from@7.18.9(@babel/core@7.21.4):
     resolution: {integrity: sha512-k1NtHyOMvlDDFeb9G5PhUXuGj8m/wiwojgQVEhJ/fsVsMCpLyOP4h0uGEjYJKrRI+EVPlb5Jk+Gt9P97lOGwtA==}
     engines: {node: '>=6.9.0'}
+    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-export-namespace-from instead.
     peerDependencies:
       '@babel/core': ^7.0.0-0
     dependencies:
@@ -525,6 +530,7 @@ packages:
   /@babel/plugin-proposal-json-strings@7.18.6(@babel/core@7.21.4):
     resolution: {integrity: sha512-lr1peyn9kOdbYc0xr0OdHTZ5FMqS6Di+H0Fz2I/JwMzGmzJETNeOFq2pBySw6X/KFL5EWDjlJuMsUGRFb8fQgQ==}
     engines: {node: '>=6.9.0'}
+    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-json-strings instead.
     peerDependencies:
       '@babel/core': ^7.0.0-0
     dependencies:
@@ -536,6 +542,7 @@ packages:
   /@babel/plugin-proposal-logical-assignment-operators@7.20.7(@babel/core@7.21.4):
     resolution: {integrity: sha512-y7C7cZgpMIjWlKE5T7eJwp+tnRYM89HmRvWM5EQuB5BoHEONjmQ8lSNmBUwOyy/GFRsohJED51YBF79hE1djug==}
     engines: {node: '>=6.9.0'}
+    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-logical-assignment-operators instead.
     peerDependencies:
       '@babel/core': ^7.0.0-0
     dependencies:
@@ -547,6 +554,7 @@ packages:
   /@babel/plugin-proposal-nullish-coalescing-operator@7.18.6(@babel/core@7.21.4):
     resolution: {integrity: sha512-wQxQzxYeJqHcfppzBDnm1yAY0jSRkUXR2z8RePZYrKwMKgMlE8+Z6LUno+bd6LvbGh8Gltvy74+9pIYkr+XkKA==}
     engines: {node: '>=6.9.0'}
+    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-nullish-coalescing-operator instead.
     peerDependencies:
       '@babel/core': ^7.0.0-0
     dependencies:
@@ -558,6 +566,7 @@ packages:
   /@babel/plugin-proposal-numeric-separator@7.18.6(@babel/core@7.21.4):
     resolution: {integrity: sha512-ozlZFogPqoLm8WBr5Z8UckIoE4YQ5KESVcNudyXOR8uqIkliTEgJ3RoketfG6pmzLdeZF0H/wjE9/cCEitBl7Q==}
     engines: {node: '>=6.9.0'}
+    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-numeric-separator instead.
     peerDependencies:
       '@babel/core': ^7.0.0-0
     dependencies:
@@ -569,6 +578,7 @@ packages:
   /@babel/plugin-proposal-object-rest-spread@7.20.7(@babel/core@7.21.4):
     resolution: {integrity: sha512-d2S98yCiLxDVmBmE8UjGcfPvNEUbA1U5q5WxaWFUGRzJSVAZqm5W6MbPct0jxnegUZ0niLeNX+IOzEs7wYg9Dg==}
     engines: {node: '>=6.9.0'}
+    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-object-rest-spread instead.
     peerDependencies:
       '@babel/core': ^7.0.0-0
     dependencies:
@@ -583,6 +593,7 @@ packages:
   /@babel/plugin-proposal-optional-catch-binding@7.18.6(@babel/core@7.21.4):
     resolution: {integrity: sha512-Q40HEhs9DJQyaZfUjjn6vE8Cv4GmMHCYuMGIWUnlxH6400VGxOuwWsPt4FxXxJkC/5eOzgn0z21M9gMT4MOhbw==}
     engines: {node: '>=6.9.0'}
+    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-optional-catch-binding instead.
     peerDependencies:
       '@babel/core': ^7.0.0-0
     dependencies:
@@ -594,6 +605,7 @@ packages:
   /@babel/plugin-proposal-optional-chaining@7.21.0(@babel/core@7.21.4):
     resolution: {integrity: sha512-p4zeefM72gpmEe2fkUr/OnOXpWEf8nAgk7ZYVqqfFiyIG7oFfVZcCrU64hWn5xp4tQ9LkV4bTIa5rD0KANpKNA==}
     engines: {node: '>=6.9.0'}
+    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-optional-chaining instead.
     peerDependencies:
       '@babel/core': ^7.0.0-0
     dependencies:
@@ -606,6 +618,7 @@ packages:
   /@babel/plugin-proposal-private-methods@7.18.6(@babel/core@7.21.4):
     resolution: {integrity: sha512-nutsvktDItsNn4rpGItSNV2sz1XwS+nfU0Rg8aCx3W3NOKVzdMjJRu0O5OkgDp3ZGICSTbgRpxZoWsxoKRvbeA==}
     engines: {node: '>=6.9.0'}
+    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-private-methods instead.
     peerDependencies:
       '@babel/core': ^7.0.0-0
     dependencies:
@@ -619,6 +632,7 @@ packages:
   /@babel/plugin-proposal-private-property-in-object@7.21.0(@babel/core@7.21.4):
     resolution: {integrity: sha512-ha4zfehbJjc5MmXBlHec1igel5TJXXLDDRbuJ4+XT2TJcyD9/V1919BA8gMvsdHcNMBy4WBUBiRb3nw/EQUtBw==}
     engines: {node: '>=6.9.0'}
+    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-private-property-in-object instead.
     peerDependencies:
       '@babel/core': ^7.0.0-0
     dependencies:
@@ -634,6 +648,7 @@ packages:
   /@babel/plugin-proposal-unicode-property-regex@7.18.6(@babel/core@7.21.4):
     resolution: {integrity: sha512-2BShG/d5yoZyXZfVePH91urL5wTG6ASZU9M4o03lKK8u8UW1y08OMttBSOADTcJrnPMpvDXRG3G8fyLh4ovs8w==}
     engines: {node: '>=4'}
+    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-unicode-property-regex instead.
     peerDependencies:
       '@babel/core': ^7.0.0-0
     dependencies:
@@ -2289,7 +2304,6 @@ packages:
   /ansi-regex@5.0.1:
     resolution: {integrity: sha512-quJQXlTSUGL2LH9SUXo8VwsY4soanhgo6LNSm84E1LBcE8s3O0wpdiRzyR9z/ZZJMlMWv37qOOb9pdJlMUEKFQ==}
     engines: {node: '>=8'}
-    dev: true
 
   /ansi-styles@3.2.1:
     resolution: {integrity: sha512-VT0ZI6kZRdTh8YyJw3SMbYm/u+NqfsAxEpWO0Pf9sq8/e94WxxOpPKx9FR1FlyCtOVDNOQ+8ntlqFxiRc+r5qA==}
@@ -3185,7 +3199,6 @@ packages:
 
   /emoji-regex@8.0.0:
     resolution: {integrity: sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A==}
-    dev: true
 
   /emoji-regex@9.2.2:
     resolution: {integrity: sha512-L18DaJsXSUk2+42pv8mLs5jJT2hqFkFE4j21wOmgbUqsZ2hL72NsUU785g9RXgo3s0ZNgVl42TiHp3ZtOv/Vyg==}
@@ -4808,7 +4821,6 @@ packages:
   /is-fullwidth-code-point@3.0.0:
     resolution: {integrity: sha512-zymm5+u+sCsSWyD9qNaejV3DFvhCKclKdizYaJUuHA83RLjb7nSuGnddCHGv0hk+KY7BMAlsWeK4Ueg6EV6XQg==}
     engines: {node: '>=8'}
-    dev: true
 
   /is-glob@4.0.3:
     resolution: {integrity: sha512-xelSayHH36ZgE7ZWhli7pW34hNbNl8Ojv5KVmkJD4hBdD3th8Tfk9vYasLM+mXWOZhFkgZfxhLSnrwRr4elSSg==}
@@ -7506,7 +7518,6 @@ packages:
       emoji-regex: 8.0.0
       is-fullwidth-code-point: 3.0.0
       strip-ansi: 6.0.1
-    dev: true
 
   /string.prototype.matchall@4.0.8:
     resolution: {integrity: sha512-6zOCOcJ+RJAQshcTvXPHoxoQGONa3e/Lqx90wUA+wEzX78sg5Bo+1tQo4N0pohS0erG9qtCqJDjNCQBjeWVxyg==}
@@ -7585,7 +7596,6 @@ packages:
     engines: {node: '>=8'}
     dependencies:
       ansi-regex: 5.0.1
-    dev: true
 
   /strip-bom-string@1.0.0:
     resolution: {integrity: sha512-uCC2VHvQRYu+lMh4My/sFNmF2klFymLX1wHJeXnbEJERpV/ZsVuonzerjfrGpIGF7LBVa1O7i9kjiWvJiFck8g==}
@@ -8298,7 +8308,7 @@ packages:
   /wide-align@1.1.5:
     resolution: {integrity: sha512-eDMORYaPNZ4sQIuuYPDHdQvf4gyCF9rEEV/yPxGfwPkRodwEgiMUUXTx/dex+Me0wxx53S+NgUHaP7y3MGlDmg==}
     dependencies:
-      string-width: 1.0.2
+      string-width: 4.2.3
     dev: false
 
   /word-wrap@1.2.3:
